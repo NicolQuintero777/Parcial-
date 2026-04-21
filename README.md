@@ -3,14 +3,14 @@
 ## Parte Conceptual
 
 ## Latch vs. Flip-Flop
-1. Latch: Es un dispositivo asíncrono y sensible al nivel. Esto significa que su salida cambia en cualquier momento en que la entrada de habilitación (Enable) esté activa.
-2. Flip-Flop: Es un dispositivo síncrono y sensible al flanco (de subida o bajada) de una señal de reloj (Clock). Solo cambia su estado en el instante preciso del pulso.
+1. Latch: Es un dispositivo asíncrono y sensible al nivel. Esto significa que su salida cambia en cualquier momento en que la entrada de habilitación esté activa.
+2. Flip-Flop: Es un dispositivo síncrono y sensible al costado de una señal de reloj. Solo cambia su estado en el instante preciso del pulso.
 
 ## Tipos y Características:
 
-1. SR: El más básico; permite establecer (1) o restablecer (0) el estado. Tiene una condición "prohibida" cuando ambas entradas son 1.
+1. SR: El más básico; permite establecer o restablecer el estado. Tiene una condición prohibida cuando ambas entradas son 1.
 2. D: Evita la condición prohibida del SR; la salida simplemente sigue a la entrada D cuando hay pulso de reloj.
-3. JK: Es una versión mejorada del SR que permite el modo "Toggle" (conmutación) cuando ambas entradas son 1.
+3. JK: Es una versión mejorada del SR que permite el modo Toggle cuando ambas entradas son 1.
 4. T: Cambia el estado de la salida en cada pulso de reloj si la entrada T está en 1.
 
 
