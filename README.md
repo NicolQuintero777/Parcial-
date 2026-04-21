@@ -7,17 +7,23 @@
 
 ## Tipos y Características:
 
-1. SR (Set-Reset): El más básico; permite establecer (1) o restablecer (0) el estado. Tiene una condición "prohibida" cuando ambas entradas son 1.
-2. D (Data): Evita la condición prohibida del SR; la salida simplemente sigue a la entrada D cuando hay pulso de reloj.
+1. SR: El más básico; permite establecer (1) o restablecer (0) el estado. Tiene una condición "prohibida" cuando ambas entradas son 1.
+2. D: Evita la condición prohibida del SR; la salida simplemente sigue a la entrada D cuando hay pulso de reloj.
 3. JK: Es una versión mejorada del SR que permite el modo "Toggle" (conmutación) cuando ambas entradas son 1.
-4. T (Toggle): Cambia el estado de la salida en cada pulso de reloj si la entrada T está en 1.
+4. T: Cambia el estado de la salida en cada pulso de reloj si la entrada T está en 1.
+
 
 ## Multiplexor vs. Demultiplexor
 1. Multiplexor: Actúa como un selector. Tiene muchas entradas y una sola salida. Selecciona una de las entradas de datos para enviarla a la salida basándose en líneas de selección.
-   MUX 8 a 1: Tiene 8 entradas de datos ($D_0$ a $D_7$) y 3 líneas de selección ($2^3 = 8$). Según el valor binario en las líneas de selección, una de las 8 entradas se refleja en la salida única.
+
+
+MUX 8 a 1: Tiene 8 entradas de datos ($D_0$ a $D_7$) y 3 líneas de selección ($2^3 = 8$). Según el valor binario en las líneas de selección, una de las 8 entradas se refleja en la salida única.
    
 3. Demultiplexor (DEMUX): Hace lo opuesto. Tiene una entrada y muchas salidas. Dirige el dato de la entrada única hacia una de las múltiples salidas.
-   DEMUX 1 a 8: Tiene una entrada de datos, 3 líneas de selección y 8 salidas ($S_0$ a $S_7$). El dato de entrada aparecerá únicamente en la salida seleccionada por el código binario.
+
+   
+DEMUX 1 a 8: Tiene una entrada de datos, 3 líneas de selección y 8 salidas ($S_0$ a $S_7$). El dato de entrada aparecerá únicamente en la salida seleccionada por el código binario.
+
 
 ## Sumadores y Circuitos Secuenciales
 1. Semisumador (Half Adder): Suma dos bits individuales y produce un resultado (Suma) y un acarreo (Carry). No tiene entrada para un acarreo previo.
