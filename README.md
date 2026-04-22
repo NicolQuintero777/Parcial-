@@ -29,6 +29,9 @@ MUX 8 a 1: Tiene 8 entradas de datos ($D_0$ a $D_7$) y 3 líneas de selección (
    
 DEMUX 1 a 8: Tiene una entrada de datos, 3 líneas de selección y 8 salidas ($S_0$ a $S_7$). El dato de entrada aparecerá únicamente en la salida seleccionada por el código binario.
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b2a9c3c6-c314-42c2-8f1d-130321cc33e4" />
+
+
 
 ## Sumadores y Circuitos Secuenciales
 1. Semisumador: Suma dos bits individuales y produce un resultado y un acarreo. No tiene entrada para un acarreo previo.
