@@ -46,5 +46,21 @@ DEMUX 1 a 8: Tiene una entrada de datos, 3 líneas de selección y 8 salidas ($S
 ## Parte de diseño 
 <img width="280" height="42" alt="image" src="https://github.com/user-attachments/assets/176be7ad-dbf4-40e1-915a-74442f634919" />
 
+## Circuito
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/a48feb79-73cc-44ed-8f39-43aba8cc3ba8" />
+
+## Tabla de verdad 
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/181ce8b0-7bf1-4a56-bdc1-389ee9eeb1b1" />
+
+
+<img width="280" height="42" alt="image" src="https://github.com/user-attachments/assets/4f304613-c7bb-47eb-a272-db2b6945d82d" />
+
+## Circuito
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/5149aafe-d119-4d69-bf85-6fc2d7c65ae4" />
+
+## Tabla de Verdad
+<img width="372" height="407" alt="image" src="https://github.com/user-attachments/assets/21397570-3682-4e06-8ac3-079f04ff63d2" />
+
+
 
 
