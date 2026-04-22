@@ -13,7 +13,8 @@
 3. JK: Es una versión mejorada del SR que permite el modo Toggle cuando ambas entradas son 1.
 4. T: Cambia el estado de la salida en cada pulso de reloj si la entrada T está en 1.
 
-   <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9917c60f-1cd1-4eee-836e-f73e5c20faf7" />
+   <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9917c60f-1cd1-4eee-836e-f73e5c20faf7" />
+
 
 
 
