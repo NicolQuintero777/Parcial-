@@ -44,4 +44,7 @@ DEMUX 1 a 8: Tiene una entrada de datos, 3 líneas de selección y 8 salidas ($S
 3. 
 
 ## Parte de diseño 
+<img width="280" height="42" alt="image" src="https://github.com/user-attachments/assets/176be7ad-dbf4-40e1-915a-74442f634919" />
+
+
 
