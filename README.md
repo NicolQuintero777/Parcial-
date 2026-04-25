@@ -62,5 +62,7 @@ DEMUX 1 a 8: Tiene una entrada de datos, 3 líneas de selección y 8 salidas ($S
 <img width="372" height="407" alt="image" src="https://github.com/user-attachments/assets/21397570-3682-4e06-8ac3-079f04ff63d2" />
 
 
+## CHATBOT
 
+Se agrega como archivo https://github.com/NicolQuintero777/Parcial-/blob/main/ChatBot.py
 
